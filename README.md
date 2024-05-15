@@ -25,3 +25,7 @@ Contributions to improve the system's functionality, optimize code, or enhance t
 ## License
 
 This project is licensed under the [MIT License](LICENSE), allowing for open-source contributions and usage.
+
+## Contact
+
+For any inquiries or feedback, you can reach out to [Mohamed Ali Mansour](https://www.linkedin.com/in/mohameddaliimansourr/).
